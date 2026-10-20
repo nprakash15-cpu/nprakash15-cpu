@@ -1,93 +1,88 @@
-# Hi there, I'm Nandhini Prakash 👋
+# Nandhini Prakash
+
+**NUS Business School** — *M.Sc. in Marketing Analytics & Insights* (2026 – 2027)  
+**Christ University, Bangalore** — *Bachelor of Business Administration* (GPA: 3.89 / 4.0)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nandhini%20Prakash-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandhini-prakash-3829872b6)
+[![Email](https://img.shields.io/badge/Email-nandhiniprakash15%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nandhiniprakash15@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Singapore-4B5563?style=flat&logo=googlemaps&logoColor=white)](#)
+
+---
+
+### Executive Summary
+
+Graduate student at **National University of Singapore (NUS) Business School** specializing in **Marketing Analytics & Insights**, with a strong analytical foundation from **Christ University (GPA: 3.89 / 4.0)**.
+
+Experienced in translating complex datasets into actionable commercial strategies, executive intelligence, and data-driven marketing initiatives. Demonstrated background across corporate analytics (Fitness First / Landmark Group) and fast-paced venture environments (Campus Binge), with specialized training in machine learning and data governance accredited by **AI Singapore**.
+
+---
+
+### Core Competencies & Technical Toolkit
+
+| Area | Tools & Frameworks |
+| :--- | :--- |
+| **Business Intelligence & Dashboards** | Microsoft Power BI, Tableau, DAX, Power Query, Advanced Excel |
+| **Database Systems & Cloud Analytics** | SQL, MySQL, Google BigQuery, Bloomberg Query Language (BQL) |
+| **Statistical & Analytical Programming** | Python (Foundations for Data Analysis), R Programming |
+| **Strategic & Consumer Analytics** | Consumer Insights, Social Media Analytics, Campaign Attribution, Process Management |
+| **Applied AI & Productivity** | Generative AI Workflows (Claude, LLMs), Canva, Workflow Automation |
+
+---
+
+### Professional Experience & Quantified Impact
+
+#### **Business Analyst & Finance Intern** — Fitness First, Landmark Group *(Apr 2025 – Jun 2025)*
+- **BI Infrastructure:** Engineered centralized Power BI reporting dashboards integrated with SQL, Google BigQuery, and Google Sheets to track trainer performance and commission structures.
+- **Quantified Efficiency:** Reduced operational reporting turnaround by **30%** and improved metric attribution accuracy by **20%**.
+- **Financial Analytics:** Evaluated balanced scorecards, daily revenue figures, front-of-house (FOH) commission reconciliations, and departmental operating budgets to inform strategic decisions.
+- **Process Optimization:** Streamlined candidate evaluation workflows for national Emiratization hiring pipelines and tracked LMS logistics for enterprise leadership sessions.
+
+#### **Head of Human Resources & Head of Social Media** — Campus Binge *(Jul 2024 – Mar 2026)*
+- **Team Leadership & Scale:** Led talent acquisition, onboarding, and organizational culture for 15+ cross-functional team members across marketing, tech, and operations.
+- **Growth & Performance Marketing:** Formulated organic and paid social media acquisition strategies on Instagram; analyzed content telemetry and reel engagement patterns to optimize reach and audience retention.
+
+#### **Head of Networking & Communication** — MirAI Club, Christ University *(Jul 2025 – May 2026)*
+- Coordinated with 10+ industry leaders and faculty to design applied workshops connecting industry AI and analytics practices with student curriculum.
+
+#### **Peer Educator** — Mental Health & Campus Welfare Initiative *(Jun 2024 – Apr 2025)*
+- Selected as **1 of 15 candidates from 560+ applicants** (<2.7% acceptance rate).
+- Conducted analytical research on campus cyberbullying patterns (revealing that 40% of affected students experience it unknowingly) and built interactive data dashboards to present findings to cohorts of 250+ students.
+
+---
+
+### Academic Background
+
+- **National University of Singapore (NUS) Business School**  
+  *Master of Science in Marketing Analytics and Insights* | July 2026 – May 2027  
+  *Singapore*
+
+- **Christ University, Bangalore**  
+  *Bachelor of Business Administration (BBA)* | July 2023 – May 2026  
+  *GPA: 3.89 / 4.0* | Bangalore, India  
+  *Selected Coursework:* Marketing Analytics, AI in Business, Data Management, Financial Analytics, Supply Chain Management, Cost & Management Accounting.
+
+---
+
+### Certifications & Accreditations
+
+- **AI Singapore:**
+  - AI for Essential Digital Skills
+  - Responsible AI
+  - AI Fundamentals
+- **Coursera:** Business Analytics & Process Management
+- **Bloomberg:** Bloomberg Spreadsheet Analysis (BQL)
+
+---
+
+### Analytical Activity
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Master+of+Science+in+Marketing+Analytics+%26+Insights;NUS+Business+School+Graduate+Student;Transforming+Data+into+Actionable+Business+Strategies;Power+BI+%7C+SQL+%7C+Python+%7C+Tableau+%7C+R" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nprakash15-cpu&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nprakash15-cpu&layout=compact&theme=default&hide_border=false" alt="Top Languages" width="45%" />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nandhini-prakash-3829872b6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nandhiniprakash15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-### 🌟 About Me
-
-- 🎓 **M.Sc. in Marketing Analytics and Insights** student at **National University of Singapore (NUS)** (2026 – 2027)
-- 🎓 **Bachelor of Business Administration (BBA)** from **Christ University, Bangalore** (GPA: **3.89 / 4.0**)
-- 💼 Former **Business Analyst & Finance Intern** at **Fitness First (Landmark Group)** — optimized commission reporting and reduced processing turnaround by 30% using Power BI, SQL, and BigQuery.
-- 🚀 Led operations & growth as **Head of HR** and **Head of Social Media Marketing** at **Campus Binge**, and led industry networking as **Head of Networking & Communication** for **MirAI Club**.
-- 💡 Passionate about **Marketing Analytics**, **Customer Insights**, **Business Intelligence**, and **Generative AI applications in Business**.
-- 📍 Based in **Singapore** 🇸🇬
-
----
-
-### 🛠️ Skills & Technologies
-
-#### **Data Analysis & Business Intelligence**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modelling-00599C?style=for-the-badge&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-2D3748?style=for-the-badge&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=for-the-badge&logoColor=white)
-
-#### **Programming & Database Systems**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R_Programming-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![BQL](https://img.shields.io/badge/BQL_(Bloomberg)-FF6F00?style=for-the-badge&logoColor=white)
-
-#### **Marketing & Generative AI Tools**
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Social Media Analytics](https://img.shields.io/badge/Social_Media_Analytics-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
----
-
-### 💼 Experience Highlights
-
-- **Fitness First (Landmark Group)** — *Business Analyst & Finance Intern*
-  - Engineered end-to-end Power BI dashboards tracking trainer performance and commissions via SQL, Google BigQuery, and Google Sheets, cutting reporting turnaround by **30%** and improving metric accuracy by **20%**.
-  - Analyzed financial scorecards, incentive distribution, and revenue budgets for executive decision-making.
-- **Campus Binge** — *Head of HR & Head of Social Media Marketing*
-  - Scaled cross-functional team across marketing, content, and tech; structured weekly agile standups.
-  - Formulated organic and paid social media strategies on Instagram, utilizing reel-level conversion and engagement telemetry.
-- **MirAI Club, Christ University** — *Head of Networking and Communication*
-  - Coordinated 10+ industry speakers and bridged academic coursework with hands-on AI & analytics workshops.
-- **Christ University** — *Peer Educator*
-  - Selected 1 of 15 from 560+ applicants; built data dashboards mapping cyberbullying vulnerabilities across 250+ students.
-
----
-
-### 📜 Certifications
-
-- 🤖 **AI for Essential Digital Skills** — *AI Singapore*
-- 🛡️ **Responsible AI** — *AI Singapore*
-- ⚙️ **AI Fundamentals** — *AI Singapore*
-- 📊 **Business Analytics and Process Management** — *Coursera*
-- 📈 **Bloomberg Spreadsheet Analysis** — *Bloomberg*
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nprakash15-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nandhini's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nprakash15-cpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nprakash15-cpu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
-</div>
-
 ---
 
 <div align="center">
-  <p>Feel free to reach out for collaborations or opportunities in Marketing Analytics & Business Intelligence!</p>
-  <a href="https://www.linkedin.com/in/nandhini-prakash-3829872b6">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <sub>Open to collaborations and discussions in Marketing Analytics, Business Intelligence, and Consumer Data Strategy.</sub>
 </div>
