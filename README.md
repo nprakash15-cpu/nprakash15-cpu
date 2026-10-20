@@ -74,15 +74,3 @@ Experienced in translating complex datasets into actionable commercial strategie
 
 ---
 
-### Analytical Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nprakash15-cpu&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nprakash15-cpu&layout=compact&theme=default&hide_border=false" alt="Top Languages" width="45%" />
-</div>
-
----
-
-<div align="center">
-  <sub>Open to collaborations and discussions in Marketing Analytics, Business Intelligence, and Consumer Data Strategy.</sub>
-</div>
